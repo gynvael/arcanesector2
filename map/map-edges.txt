@@ -1,0 +1,16 @@
+512x768
+
+0 - nothing/void (blocking)
+1 - grassland
+2 - water (blocking)
+3 - high mountains (blocking)
+4 - sand/beach
+5 - forests
+6 - rocky road/ground
+7 - dirt road/ground
+8 - stone building wall
+9 - wood floor/ceiling inside building
+
+NOTE: in map-edges-tileset.png skip the nothing/void tile (Tiled uses the
+0 index as a hardcoded 'non existent' tile anyway).
+

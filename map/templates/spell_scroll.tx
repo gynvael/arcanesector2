@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <tileset firstgid="1" source="../map-obj-tileset.json"/>
+ <object name="spell_scroll" type="spell_scroll" gid="9" width="16" height="16">
+  <properties>
+  </properties>
+ </object>
+</template>

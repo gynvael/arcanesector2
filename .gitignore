@@ -1,0 +1,9 @@
+# Python cache
+*.pyc
+
+# Object files
+*.o
+
+# Sublime files
+*.sublime-workspace
+*.sublime-project
